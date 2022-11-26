@@ -1,6 +1,9 @@
 TUTORIAL FOLLOWED: https://www.youtube.com/watch?v=qLbQ0NBa5zM
 ORIGINAL REPO: https://github.com/M4FFS/matrix-rain-background-react
 
+SCREENSHOT:
+![image](https://user-images.githubusercontent.com/34982031/204071221-4ca0f329-bca3-46df-b68c-2597858209ab.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
